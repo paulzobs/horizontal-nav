@@ -17,20 +17,18 @@ header {
   display: block;
   margin: 0;
   padding: .6em;
-  background-color: #79756f;
-  border-top: solid #595652 3px;
-  border-bottom: solid #595652 3px;
+  background-color: #ffe500;
 }
 
 .header {
   display: block;
   margin: 0;
-  color: #79756f;
+  color: #;
 }
 
 h1 {
   font-family: Bevan, serif;
-  color: #fff;
+  color: #b20953;
   text-align: center;
   margin: 0;
 }
